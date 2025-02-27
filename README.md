@@ -18,3 +18,6 @@
     <p>For more information, visit the <a href="https://omnihuman-lab.github.io">Omnihuman-Lab Official Website</a>.</p>
 </body>
 </html>
+git add .
+git commit -m "Added video demo"
+git push origin main
